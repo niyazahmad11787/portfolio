@@ -15,7 +15,7 @@ const Home = () => {
       <HomeSection2 id="services" />
       <HomeSection3 id="experiences" />
       <HomeSection4 id="skills" />
-      <HomeSection5 id="projects" />
+      {/* <HomeSection5 id="projects" /> */}
       <HomeSection6 id="contact" />
     </PageBox>
   );
