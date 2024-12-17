@@ -26,7 +26,7 @@ const HomeSection1 = ({ id }: Readonly<{ id: string }>) => {
             />
           </div>
           <p className="text-sm/normal md:text-base/normal dark:text-[var(--textColorLight)] text-[var(--textColorLight)]">
-            Software Test Engineer 💻 QA 🛠️
+          Software Test Engineer 🖥️ | Quality Assurance Specialist ✅
           </p>
 
           <div className="gap-4 mt-12 lg:mt-16 flex flex-col md:flex-row">

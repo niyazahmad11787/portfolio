@@ -5,75 +5,75 @@ const skills: ISkillListItem[] = [
     title: "Programming Languages",
     items: [
       {
-        title: "JavaScript",
+        title: "Java",
         level: SkillLevel.Expert,
-        icon: "/skills/javascript.svg",
+        icon: "/skills/java.svg",
       },
       {
-        title: "TypeScript",
+        title: "Python",
         level: SkillLevel.Intermediate,
-        icon: "/skills/typescript.svg",
+        icon: "/skills/P2.svg",
       },
-      {
-        title: "Dart",
-        level: SkillLevel.Expert,
-        icon: "/skills/dart.svg",
-      },
+      // {
+      //   title: "Dart",
+      //   level: SkillLevel.Expert,
+      //   icon: "/skills/dart.svg",
+      // },
     ],
   },
   {
-    title: "Frontend Development",
+    title: "Web Automation",
     items: [
       {
-        title: "Next.js",
+        title: "Cucumber",
         level: SkillLevel.Expert,
-        icon: "/skills/nextjs.png",
+        icon: "/skills/Cucumber.svg",
       },
       {
-        title: "React.js",
+        title: "Selenium",
         level: SkillLevel.Expert,
-        icon: "/skills/react.svg",
+        icon: "/skills/selenium.svg",
       },
       {
-        title: "HTML",
+        title: "TestNG",
         level: SkillLevel.Expert,
-        icon: "/skills/html.svg",
+        icon: "/skills/TestNG-logo.jpg",
       },
-      {
-        title: "CSS",
-        level: SkillLevel.Intermediate,
-        icon: "/skills/css.svg",
-      },
-      {
-        title: "SASS",
-        level: SkillLevel.Intermediate,
-        icon: "/skills/sass.svg",
-      },
-      {
-        title: "Redux Toolkit",
-        level: SkillLevel.Expert,
-        icon: "/skills/redux.svg",
-      },
+      // {
+      //   title: "CSS",
+      //   level: SkillLevel.Intermediate,
+      //   icon: "/skills/css.svg",
+      // },
+      // {
+      //   title: "SASS",
+      //   level: SkillLevel.Intermediate,
+      //   icon: "/skills/sass.svg",
+      // },
+      // {
+      //   title: "Redux Toolkit",
+      //   level: SkillLevel.Expert,
+      //   icon: "/skills/redux.svg",
+      // },
     ],
   },
   {
-    title: "Backend Development",
+    title: "API Testing & Automation",
     items: [
       {
-        title: "Node.js",
+        title: "RestAssured",
         level: SkillLevel.Expert,
-        icon: "/skills/nodejs.svg",
+        icon: "/skills/restAssured.png",
       },
       {
-        title: "Express.js",
+        title: "Postman",
         level: SkillLevel.Expert,
-        icon: "/skills/express.svg",
+        icon: "/skills/postman.png",
       },
-      {
-        title: "Socket.io",
-        level: SkillLevel.Intermediate,
-        icon: "/skills/socket-io.png",
-      },
+      // {
+      //   title: "Rest API",
+      //   level: SkillLevel.Intermediate,
+      //   icon: "/skills/rest1.png",
+      // },
       // {
       //   title: "Nest.js",
       //   level: SkillLevel.Beginner,
@@ -82,22 +82,23 @@ const skills: ISkillListItem[] = [
     ],
   },
   {
-    title: "Mobile App Development",
+    title: "Bug Tracking Tool",
     items: [
       {
-        title: "Flutter",
+        title: "Jira",
         level: SkillLevel.Expert,
-        icon: "/skills/flutter.svg",
+        icon: "/images/jira-1.svg",
       },
       {
-        title: "GetX",
+        title: "ClickUp",
         level: SkillLevel.Expert,
-        icon: "/skills/getx.png",
+        icon: "/images/cl1.png",
       },
+  
     ],
   },
   {
-    title: "Database Management",
+    title: "Database Testing",
     items: [
       {
         title: "MongoDB",
@@ -117,18 +118,13 @@ const skills: ISkillListItem[] = [
     ],
   },
   {
-    title: "DevOps/VCS",
+    title: "CI/CD Tool",
     items: [
-      {
-        title: "Docker",
-        level: SkillLevel.Beginner,
-        icon: "/skills/docker.png",
-      },
-      {
-        title: "AWS",
-        level: SkillLevel.Intermediate,
-        icon: "/skills/aws.svg",
-      },
+      // {
+      //   title: "Docker",
+      //   level: SkillLevel.Beginner,
+      //   icon: "/skills/docker.png",
+      // },
       {
         title: "Git",
         level: SkillLevel.Expert,
@@ -139,20 +135,31 @@ const skills: ISkillListItem[] = [
         level: SkillLevel.Expert,
         icon: "/skills/github.svg",
       },
+      {
+        title: "Jenkins",
+        level: SkillLevel.Intermediate,
+        icon: "/skills/jenkins.svg",
+      },
+
     ],
   },
   {
     title: "Miscellaneous",
     items: [
       {
-        title: "Firebase",
+        title: "Jmeter",
         level: SkillLevel.Intermediate,
-        icon: "/skills/firebase.svg",
+        icon: "/images/j1.png",
       },
       {
         title: "Ubuntu",
         level: SkillLevel.Intermediate,
         icon: "/skills/ubuntu.png",
+      },
+      {
+        title: "QA Touch",
+        level: SkillLevel.Intermediate,
+        icon: "/skills/QA-Touch.webp",
       },
     ],
   },

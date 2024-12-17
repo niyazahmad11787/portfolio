@@ -25,9 +25,9 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Nikhil Rajput",
+  title: "Niyaz Ahmad",
   description:
-    "Nikhil Rajput is a proficient Software Engineer and Full Stack Developer from India, skilled in front-end and back-end development using modern tech stacks.",
+    "Niyaz Ahmad is a proficient Software Test Engineer from India, skilled in Manual and Automation testing using modern tech stacks.",
   robots: {
     index: true,
     follow: true,

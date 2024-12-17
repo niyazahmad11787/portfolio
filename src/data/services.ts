@@ -3,89 +3,89 @@ import { IServiceItem } from "@/types";
 const services: IServiceItem[] = [
   {
     id: 1,
-    title: "Mobile App Development",
+    title: "Web Automation",
     icons: [
-      "/skills/socket-io.png",
-      "/skills/dart.svg",
-      "/skills/flutter.svg",
-      "/skills/getx.png",
-      "/skills/firebase.svg",
+      "/skills/Cucumber.svg",
+      "/skills/java.svg",
+      "/skills/selenium.svg",
+      "/skills/TestNG-logo.jpg",
+      "/skills/restAssured.png",
     ],
     shortDescription:
-      "I create engaging mobile applications for your audience.",
+      "I create manual & Automation TestCases for bug free application.",
     description:
-      "I create captivating mobile apps from concept to deployment for iOS and Android. Using cutting-edge technologies, I ensure seamless performance, intuitive interfaces, and robust functionality that align with your business goals. Enjoy a flawless user experience and outstanding results.",
+      "I ensure seamless performance and robust functionality of web applications using Selenium, Java, TestNG, and the BDD framework. By automating end-to-end testing, I deliver efficient, reliable, and high-quality solutions that enhance user experience, improve test coverage, and align with business goals.",
   },
   {
     id: 2,
-    title: "Web Development",
+    title: "Manual Testing",
     icons: [
-      "/skills/redux.svg",
-      "/skills/react.svg",
-      "/skills/nextjs.png",
-      "/skills/html.svg",
-      "/skills/css.svg",
+      "/skills/manual.png",
+      "/skills/reg.png",
+      "/skills/testing.png",
+      "/skills/QA-Touch.webp",
+      // "/skills/css.svg",
     ],
-    shortDescription: "I build visually stunning and user-friendly websites.",
+    shortDescription: "I created Manual testCases before the development.",
     description:
-      "I deliver stunning, user-friendly websites to establish your online presence. From simple sites to complex e-commerce platforms, I provide tailored solutions using the latest frameworks and technologies for a seamless, responsive, and SEO-friendly browsing experience. Enhance your online identity with quality.",
+      "I ensure the quality and reliability of applications through meticulous manual testing processes. Using QA Touch for writing and executing test cases, I perform functional testing, regression testing, usability testing, and smoke testing to identify and resolve issues early. By validating application behavior and focusing on precision, I deliver seamless, user-friendly solutions that enhance product quality and ensure a flawless user experience."
   },
   {
     id: 3,
-    title: "Backend Development",
+    title: "API Automation",
     icons: [
       "/skills/socket-io.png",
-      "/skills/docker.png",
-      "/skills/nodejs.svg",
-      "/skills/express.svg",
+      "/skills/postman.png",
+      "/skills/restAssured.png",
+      "/skills/Cucumber.svg",
       "/skills/aws.svg",
     ],
     shortDescription: "I create robust and scalable backend infrastructures.",
     description:
-      "I enhance digital applications with robust, scalable backend infrastructures. I develop efficient database structures, APIs, and configure servers for optimal performance, security, and scalability, ensuring your applications handle high traffic and complex data management seamlessly. Rely on strong backend solutions.",
+      "I ensure the reliability, performance, and security of REST and SOAP APIs through manual testing using Postman and automation using RestAssured with the BDD framework. By validating request-response integrity, data accuracy, error handling, and response time, I ensure seamless communication between systems. I focus on scalability, functionality, and robustness to deliver efficient backend solutions that handle complex data and high traffic effortlessly.",
   },
   {
     id: 4,
-    title: "Product Strategy",
+    title: "Bug Tracking & Management",
     icons: [
       "/skills/git.svg",
-      "/images/collaboration.png",
-      "/images/logical-thinking.png",
-      "/images/analytical-skills.png",
+      "/images/pic_21-1.png",
+      "/images/jira-1.svg",
+      "/images/cl1.png",
       "/skills/ubuntu.png",
     ],
     shortDescription:
-      "I define goals, target audiences, and roadmap for success.",
+      "I efficiently track, manage,bugs by using bug tracking tools.",
     description:
-      "I collaborate to define clear goals, target audiences, and a success roadmap. My expertise in product ideation and market analysis ensures your product meets user needs and aligns with your business strategy for long-term growth and full potential realization. Drive your product's success with strategic planning.",
+      "I efficiently track, manage, and resolve issues using tools like Bitrix, Jira, and ClickUp. By leveraging these bug tracking platforms, I ensure streamlined communication, prioritization of tasks, and timely resolution of defects. My focus is on maintaining product quality and ensuring a seamless user experience by effectively managing the software development lifecycle.",
   },
   {
     id: 5,
-    title: "DevOps",
+    title: "CI/CD Tools",
     icons: [
       "/skills/docker.svg",
-      "/skills/kubernetes.svg",
-      "/skills/aws.svg",
+      "/skills/git.png",
+      "/skills/git.svg",
       "/skills/jenkins.svg",
       "/skills/terraform.svg",
     ],
-    shortDescription: "I streamline development and operations processes.",
+    shortDescription: "I streamline CI/CD operations processes.",
     description:
-      "I streamline development and operations processes through effective DevOps practices. I implement continuous integration and deployment pipelines, manage cloud infrastructure, and use containerization to ensure efficient, reliable, and scalable software delivery. Improve your workflow with DevOps solutions.",
+      "I optimize the QA process by integrating DevOps practices using tools like Git, GitHub, and Jenkins. I ensure seamless CI/CD pipelines for automated testing and deployment, enabling faster feedback and reliable software delivery. By streamlining version control, build automation, and test execution, I enhance efficiency, scalability, and the overall quality of software releases.",
   },
   {
     id: 6,
-    title: "Database Management",
+    title: "Database Testing",
     icons: [
+      "/skills/mysql.svg",
       "/skills/mysql.svg",
       "/skills/postgresql.svg",
       "/skills/mongodb.svg",
-      "/skills/redis.svg",
       "/skills/sqlite.svg",
     ],
-    shortDescription: "I manage and optimize your database systems.",
+    shortDescription: "I validate accuracy, integrity database systems.",
     description:
-      "I manage and optimize your database systems for performance, reliability, and scalability. With expertise in SQL and NoSQL databases, I design schemas, write complex queries, and implement best practices for data integrity and security. Ensure your data is managed effectively and efficiently.",
+      "I ensure the accuracy, integrity, and performance of database systems through comprehensive testing. With expertise in SQL and NoSQL databases, I validate data consistency, write and execute complex queries, and verify backend operations. By focusing on data integrity, security, and performance optimization, I ensure seamless data management and reliable application functionality.",
   },
 ];
 

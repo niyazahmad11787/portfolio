@@ -76,7 +76,7 @@ const IconSkeleton = ({ item }: Readonly<{ item: IServiceItem }>) => {
   return (
     <div className="overflow-hidden h-full relative flex items-center justify-center">
       <div className="flex flex-row flex-shrink-0 justify-center items-center gap-2">
-        <IconContainer className="h-8 w-8 circle-1">
+        {/* <IconContainer className="h-8 w-8 circle-1">
           <Image
             src={item.icons[0]}
             alt={`icon-1`}
@@ -88,7 +88,7 @@ const IconSkeleton = ({ item }: Readonly<{ item: IServiceItem }>) => {
             blurDataURL="/images/placeholder.png"
             className="h-4 w-4 aspect-square"
           />
-        </IconContainer>
+        </IconContainer> */}
         <IconContainer className="h-12 w-12 circle-2">
           <Image
             src={item.icons[1]}
@@ -128,7 +128,7 @@ const IconSkeleton = ({ item }: Readonly<{ item: IServiceItem }>) => {
             className="h-6 w-6 aspect-square"
           />
         </IconContainer>
-        <IconContainer className="h-8 w-8 circle-5">
+        {/* <IconContainer className="h-8 w-8 circle-5">
           <Image
             src={item.icons[4]}
             alt={`icon-5`}
@@ -140,7 +140,7 @@ const IconSkeleton = ({ item }: Readonly<{ item: IServiceItem }>) => {
             blurDataURL="/images/placeholder.png"
             className="h-4 w-4 aspect-square"
           />
-        </IconContainer>
+        </IconContainer> */}
       </div>
 
       <div className="h-40 w-px absolute top-20 m-auto z-40 bg-gradient-to-b from-transparent via-[var(--primaryColor)] to-transparent animate-move">

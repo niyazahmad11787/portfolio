@@ -1,7 +1,7 @@
 class Strings {
-  // static telegram = "Telegram";
-  // static telegramLink = "https://telegram.me/nixrajput";
-  // static telegramUsername = "nixrajput";
+  static telegram = "Telegram";
+  static telegramLink = "https://telegram.me/NiyazAhmad00786";
+  static telegramUsername = "NiyazAhmad00786";
 
   static github = "GitHub";
   static githubLink = "https://www.github.com/niyazahmad11787";
@@ -23,9 +23,9 @@ class Strings {
   static primaryEmailLink = "mailto:niyaz.ahmad11787@gmail.com";
   static primaryEmail = "niyaz.ahmad11787@gmail.com";
 
-  // static buyMeACoffee = "BuyMeACoffee";
-  // static buyMeACoffeeLink = "https://buymeacoffee.com/nixrajput";
-  // static buyMeACoffeeUsername = "nixrajput";
+  static buyMeACoffee = "BuyMeACoffee";
+  static buyMeACoffeeLink = "https://buymeacoffee.com/ahmadniyazc";
+  static buyMeACoffeeUsername = "Niyaz Ahmad";
 
   // static koFi = "Ko-Fi";
   // static koFiLink = "https://ko-fi.com/nixrajput";
