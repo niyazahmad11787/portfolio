@@ -143,34 +143,34 @@ Your sponsorship directly fuels innovation, fosters a vibrant community, and hel
 
 Thank you for considering sponsoring my work!
 
-[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/nixrajput)
+[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/niyazahmad11787)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nixrajput)
+<!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/niyazahmad11787) -->
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/nixrajput)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/niyazahmad11787)
 
 ## Connect With Me
 
-[![GitHub: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=GitHub&logoColor=333&link=https://www.github.com/nixrajput)][github]
-[![Linkedin: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/nixrajput)][linkedin]
-[![Instagram: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=Instagram&link=https://www.instagram.com/nixrajput)][instagram]
-[![Twitter: nixrajput07](https://img.shields.io/badge/nixrajput-EFF7F6?logo=X&logoColor=333&link=https://x.com/nixrajput)][twitter]
-[![Telegram: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=Telegram&link=https://telegram.me/nixrajput)][telegram]
+[![GitHub: niyazahmad11787](https://img.shields.io/badge/niyazahmad11787-EFF7F6?logo=GitHub&logoColor=333&link=https://www.github.com/niyazahmad11787)][github]
+[![Linkedin: niyazahmad11787](https://img.shields.io/badge/niyazahmad11787-EFF7F6?logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/niyazahmad11787)][linkedin]
+[![Instagram: niyazahmad11787](https://img.shields.io/badge/niyazahmad11787-EFF7F6?logo=Instagram&link=https://www.instagram.com/niyazahmad11787)][instagram]
+[![Twitter: niyazahmad1178707](https://img.shields.io/badge/niyazahmad11787-EFF7F6?logo=X&logoColor=333&link=https://x.com/niyazahmad11787)][twitter]
+[![Telegram: niyazahmad11787](https://img.shields.io/badge/niyazahmad11787-EFF7F6?logo=Telegram&link=https://telegram.me/nixrajput)][telegram]
 [![Gmail: nkr.nikhi.nkr@gmail.com](https://img.shields.io/badge/nkr.nikhil.nkr@gmail.com-EFF7F6?logo=Gmail&link=mailto:nkr.nikhil.nkr@gmail.com)][gmail]
 
 ## Activities
 
 ![Alt](https://repobeats.axiom.co/api/embed/39717929794c9e56c46a4313ee2c33347cf209d1.svg "Repobeats analytics image")
 
-[github]: https://github.com/nixrajput
+[github]: https://github.com/niyazahmad11787
 [twitter]: https://twitter.com/nixrajput07
 [instagram]: https://instagram.com/nixrajput
 [linkedin]: https://linkedin.com/in/nixrajput
 [telegram]: https://telegram.me/nixrajput
 [gmail]: mailto:nkr.nikhil.nkr@gmail.com
-[repo]: https://github.com/nixrajput/portfolio-nextjs
-[issues]: https://github.com/nixrajput/portfolio-nextjs/issues
-[pulls]: https://github.com/nixrajput/portfolio-nextjs/pulls
-[license]: https://github.com/nixrajput/portfolio-nextjs/blob/master/LICENSE.md
+[repo]: https://github.com/niyazahmad11787/portfolio
+[issues]: https://github.com/niyazahmad11787/portfolio/issues
+[pulls]: https://github.com/niyazahmad11787/portfolio/pulls
+[license]: https://github.com/niyazahmad11787/portfolio/blob/master/LICENSE.md
 # portfolio
 # portfolio
