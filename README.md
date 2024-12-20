@@ -152,10 +152,10 @@ Thank you for considering sponsoring my work!
 ## Connect With Me
 
 [![GitHub: niyazahmad11787](https://img.shields.io/badge/niyazahmad11787-EFF7F6?logo=GitHub&logoColor=333&link=https://www.github.com/niyazahmad11787)][github]
-[![Linkedin: niyaz-ahmad-2b45b2249](https://img.shields.io/badge/niyaz-ahmad-2b45b2249-EFF7F6?logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/niyaz-ahmad-2b45b2249)][linkedin]
+[![Linkedin: niyaz-ahmad-2b45b2249](https://img.shields.io/badge/niyazahmad11787-EFF7F6?logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/niyaz-ahmad-2b45b2249)][linkedin]
 [![Instagram: i_amniyaz_](https://img.shields.io/badge/i_amniyaz_-EFF7F6?logo=Instagram&link=https://www.instagram.com/i_amniyaz_)][instagram]
 <!-- [![Twitter: niyazahmad1178707](https://img.shields.io/badge/niyazahmad11787-EFF7F6?logo=X&logoColor=333&link=https://x.com/niyazahmad11787)][twitter] -->
-[![Telegram: NiyazAhmad00786](https://img.shields.io/badge/NiyazAhmad00786-EFF7F6?logo=Telegram&link=https://telegram.me/NiyazAhmad00786)][telegram]
+[![Telegram: NiyazAhmad00786](https://img.shields.io/badge/niyazahmad11787-EFF7F6?logo=Telegram&link=https://telegram.me/NiyazAhmad00786)][telegram]
 [![Gmail: niyaz.ahmad11787@gmail.com](https://img.shields.io/badge/niyaz.ahmad11787@gmail.com-EFF7F6?logo=Gmail&link=mailto:niyaz.ahmad11787@gmail.com)][gmail]
 
 ## Activities
