@@ -171,6 +171,6 @@ Thank you for considering sponsoring my work!
 [repo]: https://github.com/niyazahmad11787/portfolio
 [issues]: https://github.com/niyazahmad11787/portfolio/issues
 [pulls]: https://github.com/niyazahmad11787/portfolio/pulls
-[license]: https://github.com/niyazahmad11787/portfolio/blob/master/LICENSE.md
+[license]: https://github.com/niyazahmad11787/portfolio/blob/master/LICENSE
 # portfolio
 # portfolio
