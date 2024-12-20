@@ -147,27 +147,27 @@ Thank you for considering sponsoring my work!
 
 <!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/niyazahmad11787) -->
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/niyazahmad11787)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/ahmadniyazc)
 
 ## Connect With Me
 
 [![GitHub: niyazahmad11787](https://img.shields.io/badge/niyazahmad11787-EFF7F6?logo=GitHub&logoColor=333&link=https://www.github.com/niyazahmad11787)][github]
-[![Linkedin: niyazahmad11787](https://img.shields.io/badge/niyazahmad11787-EFF7F6?logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/niyazahmad11787)][linkedin]
-[![Instagram: niyazahmad11787](https://img.shields.io/badge/niyazahmad11787-EFF7F6?logo=Instagram&link=https://www.instagram.com/niyazahmad11787)][instagram]
-[![Twitter: niyazahmad1178707](https://img.shields.io/badge/niyazahmad11787-EFF7F6?logo=X&logoColor=333&link=https://x.com/niyazahmad11787)][twitter]
-[![Telegram: niyazahmad11787](https://img.shields.io/badge/niyazahmad11787-EFF7F6?logo=Telegram&link=https://telegram.me/nixrajput)][telegram]
-[![Gmail: nkr.nikhi.nkr@gmail.com](https://img.shields.io/badge/nkr.nikhil.nkr@gmail.com-EFF7F6?logo=Gmail&link=mailto:nkr.nikhil.nkr@gmail.com)][gmail]
+[![Linkedin: niyazahmad11787](https://img.shields.io/badge/niyazahmad11787-EFF7F6?logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/niyaz-ahmad-2b45b2249)][linkedin]
+[![Instagram: niyazahmad11787](https://img.shields.io/badge/niyazahmad11787-EFF7F6?logo=Instagram&link=https://www.instagram.com/i_amniyaz_)][instagram]
+<!-- [![Twitter: niyazahmad1178707](https://img.shields.io/badge/niyazahmad11787-EFF7F6?logo=X&logoColor=333&link=https://x.com/niyazahmad11787)][twitter] -->
+[![Telegram: niyazahmad11787](https://img.shields.io/badge/niyazahmad11787-EFF7F6?logo=Telegram&link=https://telegram.me/NiyazAhmad00786)][telegram]
+[![Gmail: nkr.nikhi.nkr@gmail.com](https://img.shields.io/badge/nkr.nikhil.nkr@gmail.com-EFF7F6?logo=Gmail&link=mailto:niyaz.ahmad11787@gmail.com)][gmail]
 
 ## Activities
 
 ![Alt](https://repobeats.axiom.co/api/embed/39717929794c9e56c46a4313ee2c33347cf209d1.svg "Repobeats analytics image")
 
 [github]: https://github.com/niyazahmad11787
-[twitter]: https://twitter.com/nixrajput07
-[instagram]: https://instagram.com/nixrajput
-[linkedin]: https://linkedin.com/in/nixrajput
-[telegram]: https://telegram.me/nixrajput
-[gmail]: mailto:nkr.nikhil.nkr@gmail.com
+<!-- [twitter]: https://twitter.com/nixrajput07 -->
+[instagram]: https://instagram.com/i_amniyaz_
+[linkedin]: www.linkedin.com/in/niyaz-ahmad-2b45b2249
+[telegram]: https://telegram.me/NiyazAhmad00786
+[gmail]: mailto:niyaz.ahmad11787@gmail.com
 [repo]: https://github.com/niyazahmad11787/portfolio
 [issues]: https://github.com/niyazahmad11787/portfolio/issues
 [pulls]: https://github.com/niyazahmad11787/portfolio/pulls
