@@ -156,7 +156,7 @@ Thank you for considering sponsoring my work!
 [![Instagram: i_amniyaz_](https://img.shields.io/badge/niyazahmad11787-EFF7F6?logo=Instagram&link=https://www.instagram.com/i_amniyaz_)][instagram]
 <!-- [![Twitter: niyazahmad1178707](https://img.shields.io/badge/niyazahmad11787-EFF7F6?logo=X&logoColor=333&link=https://x.com/niyazahmad11787)][twitter] -->
 [![Telegram: NiyazAhmad00786](https://img.shields.io/badge/niyazahmad11787-EFF7F6?logo=Telegram&link=https://telegram.me/NiyazAhmad00786)][telegram]
-[![Gmail: niyaz.ahmad11787@gmail.com](https://img.shields.io/badge/nkr.nikhil.nkr@gmail.com-EFF7F6?logo=Gmail&link=mailto:niyaz.ahmad11787@gmail.com)][gmail]
+[![Gmail: niyaz.ahmad11787@gmail.com](https://img.shields.io/badge/niyaz.ahmad11787@gmail.com-EFF7F6?logo=Gmail&link=mailto:niyaz.ahmad11787@gmail.com)][gmail]
 
 ## Activities
 
