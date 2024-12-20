@@ -40,7 +40,7 @@ This repository contains the source code for a portfolio website built using Nex
 
 ## Screenshots
 
-![Screenshot 1](/screenshot-desktop.png)
+![Screenshot 1](/desktop.png)
 
 ## Getting Started
 
