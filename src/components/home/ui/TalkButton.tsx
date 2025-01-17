@@ -5,8 +5,9 @@ const TalkButton = () => {
   return (
     <Link
       className="app__filled_btn min-w-[10rem]"
-      href={""}
+      href={Strings.whatsappLink}
       target="_blank"
+      rel="noopener noreferrer"
     >
       Let&apos;s Talk
     </Link>
