@@ -3,7 +3,7 @@ import { IExperienceItem } from "@/types";
 const experiences: IExperienceItem[] = [
   {
     designation: "QA Executive",
-    company: "Hippo Stores Technology Pvt Ltd.",
+    company: "Hippo Stores Technology Pvt Ltd.(A Dalmia Bharat Enterprise)",
     startDate: "Aug 2024",
     isCurrentJob: true,
     location: "Gurgaon, India",
