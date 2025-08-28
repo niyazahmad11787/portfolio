@@ -8,7 +8,7 @@ class Strings {
   static githubUsername = "niyazahmad11787";
 
   static linkedIn = "LinkedIn";
-  static linkedInLink = "www.linkedin.com/in/niyaz-ahmad-2b45b2249";
+  static linkedInLink = "https://www.linkedin.com/in/niyaz-ahmad-2b45b2249";
   static linkedInUsername = "Niyaz Ahmad";
 
   static instagram = "Instagram";
@@ -33,6 +33,15 @@ class Strings {
 
   static fullName = "Niyaz Ahmad";
   static shortName = "Niyaz";
+
+  static whatsapp = "WhatsApp";
+  static whatsappNumber = "9129896786";
+  static whatsappMessage = "Hello, I would like to know more about your services!";
+  static get whatsappLink() {
+    return `https://wa.me/${this.whatsappNumber}?text=${encodeURIComponent(
+      this.whatsappMessage
+    )}`;
+  }
 }
 
 export default Strings;
